@@ -1,0 +1,17 @@
+a:9:{s:18:"POPUP_PROMO_BOTTOM";s:165:"В связи с переходом на новый сайт, некоторые страницы сайта находятся в стадии наполнения.";s:11:"ADMIN_EMAIL";s:18:"ghm-pr@ghm-hmao.ru";s:14:"TICKETS_ACTIVE";s:4:"true";s:15:"TICKETS_PAYMENT";s:4:"true";s:7:"METRICS";s:778:"<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(70888378, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/70888378" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=8784" data-pixel-id="8784"></script>";s:16:"VIRTUAL_EXPO_GHM";s:15:"/static/virtual";s:21:"VIRTUAL_EXPO_IGOSHEVA";s:15:"/static/virtual";s:21:"VIRTUAL_EXPO_RAISHEVA";s:15:"/static/virtual";s:14:"TOKEN_TELEGRAM";s:46:"1656967192:AAG22tDbr2Ew7Uo2HNithoftb5zK0jgkO78";}
